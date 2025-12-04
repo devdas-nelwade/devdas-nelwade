@@ -21,10 +21,10 @@ Always excited to learn new technologies and improve every day!
 - Java | Spring Boot
 
 ### 🗄️ Database
-- MongoDB | MySQL
+-  MySQL | MongoDB
 
 ### 🔧 Tools & Platforms
-- Git | GitHub | VS Code | REST APIs
+- Git | GitHub | VS Code | REST APIs | Postman | Intellij Idea
 
 ---
 
@@ -35,7 +35,7 @@ Always excited to learn new technologies and improve every day!
 ## 🤝 Connect with Me
 
 📧 Email: **devdaskishanraoc2003@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/devdas-nelwade-359103298/**  
+🔗 LinkedIn: **https://www.linkedin.com/in/devdas-nelwade-359103298/**  
 💻 GitHub: **https://github.com/devdas-nelwade**
 
 ---
